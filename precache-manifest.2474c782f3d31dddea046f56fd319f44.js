@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "612e2e7308b0da6fca83",
-    "url": "/TRVL-App/static/css/main.e438e2db.chunk.css"
+    "revision": "059b02498037764516e5",
+    "url": "/TRVL-App/static/css/main.46e75bd2.chunk.css"
   },
   {
-    "revision": "612e2e7308b0da6fca83",
-    "url": "/TRVL-App/static/js/main.612e2e73.chunk.js"
+    "revision": "059b02498037764516e5",
+    "url": "/TRVL-App/static/js/main.059b0249.chunk.js"
   },
   {
     "revision": "f9d9f9e39741814c323c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/TRVL-App/static/js/runtime~main.30350258.js"
   },
   {
-    "revision": "599750e77af151c3ee13ff9a736c25dd",
+    "revision": "d8d0b287bbc91ace0ea763c555e472c4",
     "url": "/TRVL-App/index.html"
   }
 ];
