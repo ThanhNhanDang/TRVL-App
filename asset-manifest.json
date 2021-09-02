@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.4ebe69e0.chunk.css",
-  "main.js": "/static/js/main.55497723.chunk.js",
-  "main.js.map": "/static/js/main.55497723.chunk.js.map",
-  "static/js/1.f9d9f9e3.chunk.js": "/static/js/1.f9d9f9e3.chunk.js",
-  "static/js/1.f9d9f9e3.chunk.js.map": "/static/js/1.f9d9f9e3.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.4ebe69e0.chunk.css.map": "/static/css/main.4ebe69e0.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.b492da53f116552997972d2fb513caf5.js": "/precache-manifest.b492da53f116552997972d2fb513caf5.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/TRVL-App/static/css/main.e438e2db.chunk.css",
+  "main.js": "/TRVL-App/static/js/main.612e2e73.chunk.js",
+  "main.js.map": "/TRVL-App/static/js/main.612e2e73.chunk.js.map",
+  "static/js/1.f9d9f9e3.chunk.js": "/TRVL-App/static/js/1.f9d9f9e3.chunk.js",
+  "static/js/1.f9d9f9e3.chunk.js.map": "/TRVL-App/static/js/1.f9d9f9e3.chunk.js.map",
+  "runtime~main.js": "/TRVL-App/static/js/runtime~main.30350258.js",
+  "runtime~main.js.map": "/TRVL-App/static/js/runtime~main.30350258.js.map",
+  "static/css/main.e438e2db.chunk.css.map": "/TRVL-App/static/css/main.e438e2db.chunk.css.map",
+  "index.html": "/TRVL-App/index.html",
+  "precache-manifest.954124c987e7b2c58a9ec3cccd68e7af.js": "/TRVL-App/precache-manifest.954124c987e7b2c58a9ec3cccd68e7af.js",
+  "service-worker.js": "/TRVL-App/service-worker.js"
 }
